@@ -17,4 +17,4 @@ function makeNegative(num) {
 }
 
 console.log(makeNegative(10));
-// = -10
+// -> -10
