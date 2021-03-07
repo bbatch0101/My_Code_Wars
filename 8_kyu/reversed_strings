@@ -1,12 +1,12 @@
-Complete the solution so that it reverses the string passed into it.
-
-'world'  =>  'dlrow'
+// Complete the solution so that it reverses the string passed into it.
+// 'world'  =>  'dlrow'
 
 // Code
 function solution(str) {
   return str.split('').reverse().join('');
 };
 
+// Test Cases
 solution('world');
 // => 'dlrow'
 solution('hello');
