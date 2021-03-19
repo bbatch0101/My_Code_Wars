@@ -19,4 +19,16 @@ function sumCubes(n){
   return sum;
 }
 
-// Test
+// Test Cases
+sumCubes(1);
+// => 1
+sumCubes(2);
+// => 9
+sumCubes(3);
+// => 36
+sumCubes(4);
+// => 100
+sumCubes(10);
+// => 325
+sumCubes(123); 
+// => 58155876 
